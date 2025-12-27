@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuranjan Gupta</h1>
-<h3 align="center">I Am passionate full developer</h3>
+<h3 align="center"> Passionate Full-Stack Developer</h3>
 <img align="right" alt="coding" width="400" src=https://github.com/Anuranjan098/anuranjan098/blob/main/21004063.jpg>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuranjan098&label=Profile%20views&color=0e75b6&style=flat" alt="anuranjan098" /> </p>
 
